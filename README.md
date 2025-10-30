@@ -4,7 +4,7 @@
 <div align="center">
 
 ## 💼 Portfolio Website  
-A sleek and modern **Personal Portfolio Website** built using HTML, CSS, and JavaScript.  
+A sleek and modern **Personal Portfolio Website** built using HTML, CSS, and JS.  
 It showcases your skills, projects, and experience with a clean and professional design that leaves a lasting impression.
 
 </div>
