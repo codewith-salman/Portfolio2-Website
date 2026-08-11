@@ -9,6 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/portfolio2-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio2-website-mu.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -17,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Portfolio/assets/images/logo.png" alt="Portfolio Website Logo" width="120"/>
+<img src="Portfolio/favicon.svg" alt="Portfolio Website Logo" width="120"/>
 
 <br />
 <br />
