@@ -3,49 +3,101 @@
 <br />
 <div align="center">
 
-## 💼 Portfolio Website  
-A sleek and modern **Personal Portfolio Website** built using HTML, CSS, and JS.  
-It showcases your skills, projects, and experience with a clean and professional design that leaves a lasting impression.
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/portfolio2-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/portfolio2-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/portfolio2-website?style=social)
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio2-website-mu.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
+<h1 align="center">💼 Portfolio Website</h1>
+
+A sleek, modern, and fully responsive  
+**Personal Portfolio Website** built using **HTML, CSS, and JavaScript**.
+
+<a href="https://portfolio2-website-mu.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+---
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
 ## 📖 About The Project
 
-<img src="Portfolio/assets/images/desktop.png" alt="Portfolio Website Desktop Screenshot" width="100%" />
+<img src="Portfolio/assets/images/desktop.png" alt="Portfolio Website Desktop View" width="100%" />
 
-**Portfolio Website** is a personal digital showcase that highlights your professional identity.  
-It includes sections for **About**, **Skills**, **Projects**, **Experience**, and **Contact**, all structured for clarity and modern presentation.  
-Perfect for **developers, designers, and freelancers** looking to build a strong online presence and impress potential clients or employers.
+The **Portfolio Website** is a modern personal digital showcase designed to present professional skills, projects, experience, and personal information in a clean and engaging way.
 
+The layout focuses on:
+- Modern and professional portfolio design
+- Clear presentation of skills and projects
+- Smooth section-based navigation
+- Responsive layouts across all devices
+- Clean typography, spacing, and visual hierarchy
+
+This project demonstrates your ability to build **professional personal branding websites**, organize information effectively, and create responsive interfaces that provide a polished user experience.
+
+Ideal for:
+- Developer and designer portfolios
+- Freelancer personal websites
+- Job application portfolios
+- Personal branding websites
+- Front-end UI and responsive design practice
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
-### ✨ Features
+## ✨ Features
 
-- Fully responsive and mobile-friendly layout  
-- Smooth scrolling and section-based navigation  
-- Clean, elegant design with subtle animations  
-- Separate sections for About, Skills, Projects, and Contact  
-- Easy to customize content and color palette  
+- Fully responsive portfolio layout
+- Clean and modern personal branding UI
+- About, Skills, Projects, Experience, and Contact sections
+- Smooth scrolling navigation
+- Subtle animations and hover effects
+- Professional typography and spacing
+- Easy to customize content and color palette
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
-### 🛠️ Built With
+## 🛠️ Built With
 
-* [HTML5](https://html5.org/)  
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+This project is built using:
 
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
